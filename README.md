@@ -18,7 +18,6 @@ A Claude Code plugin that enforces a strict no-em-dash policy across all Claude 
 | `⸺` | U+2E3A | Two-em dash |
 | `⸻` | U+2E3B | Three-em dash |
 | `﹘` | U+FE58 | Small em dash |
-| `︱` | U+FE31 | Vertical em dash |
 | `‒` | U+2012 | Figure dash |
 
 ## Install via Claude Code marketplace

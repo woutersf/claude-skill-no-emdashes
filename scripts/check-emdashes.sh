@@ -65,7 +65,6 @@ EM_DASH_CHARS = {
     '⸺': 'TWO-EM DASH (⸺)',
     '⸻': 'THREE-EM DASH (⸻)',
     '﹘': 'SMALL EM DASH (﹘)',
-    '︱': 'VERTICAL EM DASH (︱)',
     '‒': 'FIGURE DASH (‒)',
 }
 

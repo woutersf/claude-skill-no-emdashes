@@ -11,8 +11,7 @@ rule = (
     'horizontal bar ― (U+2015), '
     'two-em dash ⸺ (U+2E3A), '
     'three-em dash ⸻ (U+2E3B), '
-    'small em dash ﹘ (U+FE58), '
-    'figure dash ‒ (U+2012). '
+    'small em dash ﹘ (U+FE58), figure dash ‒ (U+2012). '
     'No exceptions. Use commas, colons, parentheses, or separate sentences instead.'
 )
 print(json.dumps({

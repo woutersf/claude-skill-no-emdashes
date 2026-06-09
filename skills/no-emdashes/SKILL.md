@@ -16,7 +16,6 @@ This includes all of the following characters:
 - U+2E3A `⸺` TWO-EM DASH
 - U+2E3B `⸻` THREE-EM DASH
 - U+FE58 `﹘` SMALL EM DASH
-- U+FAE31 `︱` VERTICAL EM DASH
 - U+2012 `‒` FIGURE DASH
 
 ## What to use instead

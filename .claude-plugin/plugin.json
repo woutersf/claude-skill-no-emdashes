@@ -1,0 +1,12 @@
+{
+  "name": "no-emdashes",
+  "description": "Strictly prevents em dashes in all Claude responses. Injects a no-em-dash rule into every conversation and automatically catches and corrects any em dash that slips through.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Frederik Wouters",
+    "email": "frederik.wouters@dropsolid.com"
+  },
+  "homepage": "https://github.com/woutersf/no-emdashes",
+  "repository": "https://github.com/woutersf/no-emdashes",
+  "license": "MIT"
+}
