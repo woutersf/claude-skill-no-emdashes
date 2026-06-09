@@ -1,4 +1,4 @@
-# no-emdashes
+# no emdashes - ever!!
 
 A Claude Code plugin that enforces a strict no-em-dash policy across all Claude responses.
 
